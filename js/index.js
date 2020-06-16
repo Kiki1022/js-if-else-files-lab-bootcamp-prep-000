@@ -5,3 +5,6 @@ var height = "74"
 module.exports = { name, height
 }
 
+if (name === "Susan") {
+  cosole.log("The name is correct")
+}
